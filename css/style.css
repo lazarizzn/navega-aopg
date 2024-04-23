@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.esquerda{
+    width: 55%;
+    height: 100vh; 
+
+    
+}
+.direita{
+    width: 45%;
+    background-image: url(/img/3d-elegant-green-geometrical-texture_23-2149168863\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+}
+
+.logo{
+    margin: 50px 0px 0px 100px;
+    width: 99px;
+    height: 99px;
+
+}
+
+
+.sign-in{
+        margin: 51px 152px 0px 150px;
+        text-align: center;
+        justify-content: center;
+}
+.titulo-esquerda{
+    font-size: 48px;
+    font-family: Jaldi;
+    font-weight: 400;
+    color: #C1C242;
+
+}
+.div-logo{
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    column-gap: 16px;
+    margin-top: 40px;
+
+}
+.div-sp{
+    font-size: 20px;
+    font-family: Jaldi;
+    font-weight: 400;
+    margin-top: 40px;
+}
+.login{
+    width: 426px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: #CCCD2130;
+    margin-top: 40px;
+    font-family: Jaldi;
+    font-weight: 400;
+
+
+}
+.btn1{
+    width: 274px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: #BDBE3E;
+    margin-top: 25px;
+    font-family: Jaldi;
+    font-weight: 400;
+    font-size: 36px;
+}
+.sign-up{
+    margin: 300px 152px 0px 150px;
+    text-align: center;
+    justify-content: center;
+    
+}
+.titulo-direita{
+    font-size: 64px;
+    font-family: Jaldi;
+    font-weight: 400;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+
+}
+.div-account{
+    font-size: 40px;
+    font-family: Jaldi;
+    font-weight: 400;
+    justify-content: center;
+    color: #FFFFFF;
+    margin-top: 300px;
+
+}
+.btn2{
+    width: 274px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    border: solid 0px;
+    font-family: Jaldi;
+    font-weight: 400;
+    font-size: 36px;
+    
+
+}
+.esquerda-pg2{
+        width: 55%;
+        height: 100vh;    
+
+}
+.sign-up-page2{
+    margin: 150px 152px 0px 150px;
+    text-align: center;
+    justify-content: center;
+}
+.sign-in-page2{
+    margin: 51px 152px 0px 150px;
+    text-align: center;
+    justify-content: center;
+}
